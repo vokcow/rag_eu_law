@@ -1,0 +1,5 @@
+langchain==0.3.11
+langchain-community==0.3.11
+langchain-aws
+chromadb==0.5.23
+gradio==5.9.0
